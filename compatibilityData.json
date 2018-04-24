@@ -36,30 +36,39 @@
 			"uid": 23456,
       "name": "A",
       "img_path": "https://dummyimage.com/300x100/000/fff",
-      "alt": "frames for eye glasses"
+      "alt": "lens for eye glasses"
 		},
 		{
 			"uid": 23457,
       "name": "B",
       "img_path": "https://dummyimage.com/300x100/ff00ff/fff",
-      "alt": "frames for eye glasses"
+      "alt": "lens for eye glasses"
 		},
 		{
 			"uid": 23458,
       "name": "C",
       "img_path": "https://dummyimage.com/300x100/00fc00/fff",
-      "alt": "frames for eye glasses"
+      "alt": "lens for eye glasses"
 		}
 	],
 	"accessories": [
 		{
 			"uid": 34567,
+      "name": "A",
+      "img_path": "https://dummyimage.com/300x100/000/fff",
+      "alt": "accessories for eye glasses"
 		},
 		{
 			"uid": 34568,
+      "name": "B",
+      "img_path": "https://dummyimage.com/300x100/ff00ff/fff",
+      "alt": "accessories for eye glasses"
 		},
 		{
 			"uid": 34569,
+      "name": "C",
+      "img_path": "https://dummyimage.com/300x100/00fc00/fff",
+      "alt": "accessories for eye glasses"
 		}
 	]
 }
