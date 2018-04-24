@@ -1,0 +1,65 @@
+{
+	"frames": [
+		{
+			"uid": 12345,
+			"compatibility": {
+				"lens": [23456, 23457, 23458],
+				"accessories": [34567, 34568, 34569]
+			},
+      "name": "A",
+      "img_path": "https://dummyimage.com/300x100/000/fff",
+      "alt": "frames for eye glasses"
+		},
+		{
+			"uid": 12346,
+			"compatibility": {
+				"lens": [23457, 23458],
+				"accessories": [34567, 34569]
+			},
+      "name": "B",
+      "img_path": "https://dummyimage.com/300x100/ff00ff/fff",
+      "alt": "frames for eye glasses"
+		},
+		{
+			"uid": 12347,
+			"compatibility": {
+				"lens": [23458],
+				"accessories": [34568]
+			},
+      "name": "C",
+      "img_path": "https://dummyimage.com/300x100/00fc00/fff",
+      "alt": "frames for eye glasses"
+		}
+	],
+	"lens": [
+		{
+			"uid": 23456,
+      "name": "A",
+      "img_path": "https://dummyimage.com/300x100/000/fff",
+      "alt": "frames for eye glasses"
+		},
+		{
+			"uid": 23457,
+      "name": "B",
+      "img_path": "https://dummyimage.com/300x100/ff00ff/fff",
+      "alt": "frames for eye glasses"
+		},
+		{
+			"uid": 23458,
+      "name": "C",
+      "img_path": "https://dummyimage.com/300x100/00fc00/fff",
+      "alt": "frames for eye glasses"
+		}
+	],
+	"accessories": [
+		{
+			"uid": 34567,
+		},
+		{
+			"uid": 34568,
+		},
+		{
+			"uid": 34569,
+		}
+	]
+}
